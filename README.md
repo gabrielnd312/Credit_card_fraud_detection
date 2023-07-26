@@ -1,7 +1,8 @@
 
 
 [![author](https://img.shields.io/badge/author-gabrielduarte-red.svg)](https://www.linkedin.com/in/gabriel-duarte-671074146/)
-# # Credit_card_fraud_detection
+
+# **Machine Learning: Credit Card Fraude Detection**
 <p align="center">
   <img src="bermix-studio-bCrM2e1M0a4-unsplash.jpg" width=60% >
 </p>
