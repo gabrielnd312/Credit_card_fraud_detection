@@ -1,9 +1,9 @@
-# Credit_card_fraud_detection
+
 
 [![author](https://img.shields.io/badge/author-gabrielduarte-red.svg)](https://www.linkedin.com/in/gabriel-duarte-671074146/)
-# airbnb_data
+# # Credit_card_fraud_detection
 <p align="center">
-  <img src="Capa-GitHub-Airbnb.png" >
+  <img src="Capa-GitHub-CCDetection.png" >
 </p>
 
 This data science project aims to explore and analyze actual Airbnb data in Tokyo, Japan based on datasets provided by the Inside Airbnb portal. Tokyo, the capital of Japan, is a dynamic city filled with culture, history and a unique tourist experience.
