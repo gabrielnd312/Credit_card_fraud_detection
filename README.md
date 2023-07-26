@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-gabrielduarte-red.svg)](https://www.linkedin.com/in/gabriel-duarte-671074146/)
 # # Credit_card_fraud_detection
 <p align="center">
-  <img src="bermix-studio-bCrM2e1M0a4-unsplash.jpg" width=50% >
+  <img src="bermix-studio-bCrM2e1M0a4-unsplash.jpg" width=60% >
 </p>
 
 With the constant increase in online financial transactions and the increasing popularity of e-commerce, credit cards have become one of the most common forms of payment. However, this scenario has also opened the door to a significant increase in credit card fraud, representing an ongoing challenge for financial institutions and consumers alike.
