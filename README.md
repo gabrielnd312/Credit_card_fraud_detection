@@ -8,19 +8,19 @@
 
 With the constant increase in online financial transactions and the increasing popularity of e-commerce, credit cards have become one of the most common forms of payment. However, this scenario has also opened the door to a significant increase in credit card fraud, representing an ongoing challenge for financial institutions and consumers alike.
 
-In 2021 in Brazil alone, there was an increase of more than 30% in credit card fraud, totaling more than 2 million fraud attempts in a period of 6 months of observation.
+In 2021 in Brazil alone, there was an increase of more than **30%** in credit card fraud, totaling more than 2 million fraud attempts in a period of 6 months of observation.
 
 According to a survey conducted by Kaspersky in the year 2022, 20% of the Brazilian population has already suffered credit card fraud.
 
-That is, 2 out of 10 Brazilians have already dealt with some type of problem related to this topic.
+That is, **2 out of 10** Brazilians have already dealt with some type of problem related to this topic.
 
 This article discusses the importance of using data science techniques and machine learning models to detect and prevent credit card fraud. We'll explore how these smart approaches can help identify suspects and increase transaction security while minimizing financial impact and user concern.
 
 In our database, there is a column where there is a classification between:
 
-- Genuine transaction (No Fraud)
+- **Genuine transaction (No Fraud)**
 
--Fraudulent transaction (Fraud detected)
+- **Fraudulent transaction (Fraud detected)**
 
 Within the column, each transaction has its classification in binary order, with 0 transactions without detected fraud and 1 transaction with detected fraud.
 
